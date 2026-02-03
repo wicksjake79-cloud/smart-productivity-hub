@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create and Sell Digital Products in 2026</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+        header { background: #2e86de; color: #fff; padding: 20px; text-align: center; }
+        nav { text-align: center; background: #1b4f72; padding: 10px; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        .content { padding: 20px; max-width: 850px; margin: auto; }
+        h2 { color: #2e86de; }
+        .section { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Create & Sell Digital Products in 2026</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="store.html">Store</a>
+    <a href="post1.html">AI Tools</a>
+    <a href="post2.html">Digital Products</a>
+    <a href="post3.html">Affiliate Marketing</a>
+</nav>
+
+<div class="content">
+    <div class="section">
+        <h2>1. E-books & Guides</h2>
+        <p>Create digital guides using ChatGPT or Canva. These sell extremely well on Etsy, Gumroad, and Amazon KDP.</p>
+    </div>
+
+    <div class="section">
+        <h2>2. Printable Templates</h2>
+        <p>Daily planners, budget sheets, calendars—these are top sellers and require zero inventory or shipping.</p>
+    </div>
+
+    <div class="section">
+        <h2>3. AI Automation Systems</h2>
+        <p>Sell automated workflows and time-saving systems for businesses or individuals.</p>
+    </div>
+
+    <div class="section">
+        <h2>4. Online Courses</h2>
+        <p>Create short video tutorials teaching something you know—construction, DIY, or business basics.</p>
+    </div>
+
+    <div class="section">
+        <h2>5. Stock Photos & Content Packs</h2>
+        <p>Create packs of images, icons, or graphics to sell on marketplaces.</p>
+    </div>
+</div>
+
+</body>
+</html>
