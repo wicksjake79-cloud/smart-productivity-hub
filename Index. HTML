@@ -1,0 +1,83 @@
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Productivity Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background: #2e86de;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background: #1b4f72;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .content {
+            padding: 20px;
+            max-width: 850px;
+            margin: auto;
+        }
+        .post-link {
+            display: block;
+            padding: 15px;
+            margin: 10px 0;
+            background: white;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #333;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+        .post-link:hover {
+            background: #eaf2f8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Smart Productivity Hub</h1>
+        <p>Tools, tips, and digital products to boost your income.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="store.html">Store</a>
+        <a href="post1.html">AI Tools</a>
+        <a href="post2.html">Digital Products</a>
+        <a href="post3.html">Affiliate Marketing</a>
+    </nav>
+
+    <div class="content">
+        <h2>Featured Articles</h2>
+
+        <a class="post-link" href="post1.html">
+            Top AI Productivity Tools for 2026
+        </a>
+
+        <a class="post-link" href="post2.html">
+            How to Create and Sell Digital Products
+        </a>
+
+        <a class="post-link" href="post3.html">
+            Affiliate Marketing Strategies for Beginners
+        </a>
+    </div>
+</body>
+</html>
