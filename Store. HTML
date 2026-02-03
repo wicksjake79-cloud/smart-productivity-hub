@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store – Smart Productivity Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background: #2e86de;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background: #1b4f72;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .content {
+            padding: 20px;
+            max-width: 850px;
+            margin: auto;
+        }
+        .product-box {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #2e86de;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Store</h1>
+    <p>Download digital products that help you earn more.</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="store.html">Store</a>
+    <a href="post1.html">AI Tools</a>
+    <a href="post2.html">Digital Products</a>
+    <a href="post3.html">Affiliate Marketing</a>
+</nav>
+
+<div class="content">
+    <div class="product-box">
+        <h2>2026 Digital Productivity Planner</h2>
+        <p>A full-year printable PDF planner to help track goals, habits, income streams, and daily tasks.</p>
+
+        <p><strong>Note:</strong> This is a sample placeholder download. Replace this link with your Gumroad/Etsy product link when ready.</p>
+
+        <a class="download-btn" href="../digital_planner_2026.pdf" download>
+            Download Sample
+        </a>
+    </div>
+</div>
+
+</body>
+</html>
