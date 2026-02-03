@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affiliate Marketing Strategies for Beginners in 2026</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+        header { background: #2e86de; color: #fff; padding: 20px; text-align: center; }
+        nav { text-align: center; background: #1b4f72; padding: 10px; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        .content { padding: 20px; max-width: 850px; margin: auto; }
+        h2 { color: #2e86de; }
+        .section { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Affiliate Marketing Strategies for Beginners in 2026</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="store.html">Store</a>
+    <a href="post1.html">AI Tools</a>
+    <a href="post2.html">Digital Products</a>
+    <a href="post3.html">Affiliate Marketing</a>
+</nav>
+
+<div class="content">
+    <div class="section">
+        <h2>1. Choose High-Paying Programs</h2>
+        <p>Focus on affiliate networks like Amazon Associates, ClickBank, and high-ticket AI software platforms.</p>
+    </div>
+
+    <div class="section">
+        <h2>2. Review Products You Use</h2>
+        <p>Write simple reviews about tools you use—construction gear, power tools, apps, or gadgets.</p>
+    </div>
+
+    <div class="section">
+        <h2>3. Share Tutorials or Tips</h2>
+        <p>Create short posts, TikToks, or videos showing “how to do ___” and include affiliate links.</p>
+    </div>
+
+    <div class="section">
+        <h2>4. Build a Simple Website</h2>
+        <p>This very site you’re building can act as your affiliate hub for passive income.</p>
+    </div>
+
+    <div class="section">
+        <h2>5. Track Your Earnings</h2>
+        <p>Use Google Analytics or built-in dashboards to see what’s earning and increase those efforts.</p>
+    </div>
+</div>
+
+</body>
+</html>
