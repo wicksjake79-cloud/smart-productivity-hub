@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top AI Productivity Tools for 2026</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+        header { background: #2e86de; color: #fff; padding: 20px; text-align: center; }
+        nav { text-align: center; background: #1b4f72; padding: 10px; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        .content { padding: 20px; max-width: 850px; margin: auto; }
+        h2 { color: #2e86de; }
+        .section { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Top AI Productivity Tools for 2026</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="store.html">Store</a>
+    <a href="post1.html">AI Tools</a>
+    <a href="post2.html">Digital Products</a>
+    <a href="post3.html">Affiliate Marketing</a>
+</nav>
+
+<div class="content">
+    <div class="section">
+        <h2>1. ChatGPT Assistants</h2>
+        <p>AI assistants are now essential for automating writing, research, communication, project planning, and customer support tasks.</p>
+    </div>
+
+    <div class="section">
+        <h2>2. Notion AI</h2>
+        <p>A powerful workspace that helps organize tasks, documents, schedules, and automations using built-in artificial intelligence.</p>
+    </div>
+
+    <div class="section">
+        <h2>3. Canva AI</h2>
+        <p>Canva’s AI-driven tools make creating graphics, logos, templates, and social content faster than ever.</p>
+    </div>
+
+    <div class="section">
+        <h2>4. Zapier AI Automation</h2>
+        <p>Zapier now uses AI to link your apps together and automate workflows 100% hands-free.</p>
+    </div>
+
+    <div class="section">
+        <h2>5. Runway ML</h2>
+        <p>Runway enables advanced AI video generation and editing for marketing, storytelling, and creative projects.</p>
+    </div>
+</div>
+
+</body>
+</html>
